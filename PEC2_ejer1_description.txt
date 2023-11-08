@@ -1,0 +1,8 @@
+Nombre: Gráfico de Barras.
+Origen: El uso de gráficos de barras se remonta al menos al siglo XVIII.
+Descripción/Funcionamiento: Los gráficos de barras representan datos utilizando barras rectangulares de longitud proporcional a los valores que están representando. Pueden ser horizontales o verticales.
+Ejemplos de Aplicación: Pueden utilizarse para mostrar la distribución de ingresos por país, la cantidad de productos vendidos en un período de tiempo o la popularidad de diferentes géneros musicales en una encuesta.
+
+Tipo de Datos: Datos cuantitativos o datos discretos, como recuentos o cantidades numéricas.
+Estructura de Datos: Se requiere una variable categórica o de clasificación que defina las categorías de las barras y una variable numérica que indique la longitud de las barras (altura).
+Limitaciones: No hay una medida mínima o máxima del juego de datos en términos de recuento de categorías o valores numéricos. Sin embargo, si el número de categorías es muy alto, el gráfico de barras puede volverse difícil de interpretar.

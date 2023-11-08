@@ -1,0 +1,8 @@
+Nombre: Gráfico de Horizonte (Horizon Graph).
+Origen: El concepto de Gráfico de Horizonte se originó en la década de 2008 con la publicación de un artículo académico sobre visualización de datos.
+Descripción/Funcionamiento: El Gráfico de Horizonte es una técnica de visualización de datos que combina elementos de gráficos de área y gráficos de líneas para representar datos a lo largo del tiempo o en una dimensión continua. Los datos se dividen en capas horizontales y se superponen para mostrar múltiples series o categorías. Cada capa representa una serie de datos y se rellena con un gradiente de color que indica la magnitud de los valores. Esta técnica es efectiva para mostrar tendencias, comparar múltiples series y resaltar áreas de interés en los datos.
+Ejemplos de Aplicación: El Gráfico de Horizonte se utiliza en aplicaciones como la visualización de datos financieros, la monitorización de sistemas y redes, y la representación de series temporales multidimensionales.
+
+Tipo de Datos: Datos cuantitativos o valores numéricos que se pueden representar a lo largo del tiempo o en una dimensión continua. A menudo se utilizan para visualizar múltiples series de datos.
+Estructura de Datos: Requiere datos con una dimensión de tiempo o una dimensión continua, junto con múltiples series de datos que se superponen en capas horizontales. Cada serie se representa en una capa separada.
+Limitaciones: La efectividad del Gráfico de Horizonte depende de la calidad de los datos y la capacidad para distinguir las diferentes series en las capas superpuestas. A veces, puede ser difícil de interpretar si hay demasiadas capas o si los datos no muestran patrones claros a lo largo del tiempo o la dimensión continua.

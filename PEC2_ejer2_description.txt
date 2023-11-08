@@ -1,0 +1,8 @@
+Nombre: Diagrama de Gantt.
+Origen: El Diagrama de Gantt fue desarrollado por Henry L. Gantt en la década de 1910.
+Descripción/Funcionamiento: El Diagrama de Gantt es una representación gráfica de un programa de trabajo o un proyecto a lo largo del tiempo. Utiliza barras horizontales para mostrar las tareas, actividades o hitos del proyecto en un eje de tiempo. Cada barra representa una tarea o actividad y su longitud indica la duración planificada. Se utiliza para planificar, programar y realizar un seguimiento de proyectos.
+Ejemplos de Aplicación: Puede utilizarse en la gestión de proyectos para visualizar las fechas de inicio y finalización de tareas, asignar recursos, identificar dependencias entre tareas y monitorear el progreso de un proyecto.
+
+Tipo de Datos: Datos relacionados con la gestión de proyectos, que incluyen nombres de tareas, fechas de inicio y finalización, duraciones y dependencias entre tareas.
+Estructura de Datos: Requiere una tabla de datos que incluye información sobre las tareas o actividades, las fechas de inicio y finalización, y, opcionalmente, las dependencias entre tareas. Cada tarea se representa con una fila de datos.
+Limitaciones: No hay medidas mínimas o máximas estrictas para los datos del Diagrama de Gantt. Sin embargo, la efectividad de la visualización depende de la calidad de los datos de planificación del proyecto. La representación gráfica puede volverse compleja en proyectos muy grandes o con muchas dependencias.
